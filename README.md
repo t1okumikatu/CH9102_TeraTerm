@@ -1,0 +1,2 @@
+# CH9102_TeraTerm
+win10クリーンインストール後、arduino-IDEが無くてもesp32ＵＳＢドライバはteratermで認識する
